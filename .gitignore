@@ -1,0 +1,7 @@
+reports/
+logs/
+*.csv
+*.json
+*.html
+.env
+.vscode/
